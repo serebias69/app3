@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Link
+Name=Navegador de Internet Chromium
+Icon=chromium-browser
+URL=/usr/share/applications/chromium-browser.desktop
